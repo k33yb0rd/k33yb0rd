@@ -1,9 +1,7 @@
 **Introduction**
 
 - 👋 Hi, I’m @k33yb0rd
-- 👀 I’m interested in ACPI
-- 🌱 I’m currently working as "Blah Blah Blah"
-- 💞️ I’m looking to collaborate on "Blah Blah Blah"
+- 👀 I’m interested in ACPI and writing some Disassemble ACPI Source Language (.dsl) code
 
 **How to reach me?**
 
